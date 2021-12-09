@@ -1,3 +1,1 @@
 # sample-repox
-
-jenkins repo
